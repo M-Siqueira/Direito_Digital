@@ -197,10 +197,69 @@ ISO 27033-x: 06 partes da norma 27033. O conjunto de normas 27033-1 a 27033-6 s�
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+exercicios 8 e 9:
+
+Lincenças:
+Realize uma pesquisa sobre licenças de software, leia com atenção e incremente seu glossário, respondendo as questões:
+
+O que é e para que serve uma licença de software?
+    Uma licença de software é um acordo que permite que você use um programa de computador. O acordo define o que você pode fazer com o software, como instalá-lo, usá-lo e distribuí-lo.
+    Existem dois tipos principais de licenças de software:
+
+    Licença proprietária: É o tipo mais comum e é usada por softwares comerciais. Nesse tipo de licença, você paga ao proprietário do software para usar o software.
+    Licença de software livre: É um tipo de licença que concede a você todos os direitos sobre o software, incluindo a permissão para modificá-lo, redistribuí-lo e até mesmo vendê-lo.
+
+O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+    Software Proprietário é o tipo mais comum de software. Ele é criado por uma empresa ou pessoa que possui os direitos de propriedade intelectual do software.
+     O usuário do software precisa comprar uma licença para usar o software, geralmente mediante pagamento de uma taxa.
+
+O que é GNU General Public License?
+    A GPL é uma licença de software livre que permite que você use, modifique e redistribua o software gratuitamente.
+
+O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+    GNU FDL é a Licença de Documentação Livre GNU. É uma licença de software livre que garante que a documentação do software seja livremente acessível e modificável. A FDL é baseada em três liberdades fundamentais:
+
+    Liberdade 0: A liberdade de ler o documento.
+    Liberdade 1: A liberdade de copiar o documento para qualquer propósito.
+    Liberdade 3: A liberdade de modificar o documento e distribuir suas modificações.
+
+Identifique as principais licenças quando um repositório é criado no GitHub
+
+    MIT: Uma licença permissiva que concede ao usuário amplos direitos sobre o software, incluindo a permissão para modificar, redistribuir e até mesmo vender o software.
+    Apache 2.0: Uma licença permissiva que é semelhante à MIT, mas inclui algumas restrições adicionais, como a exigência de que o software licenciado seja distribuído com um aviso de copyright.
+    GPLv3: Uma licença copyleft que garante que o software licenciado seja livremente acessível e modificável.
+    LGPLv3: Uma licença copyleft que permite a redistribuição de bibliotecas de software, mesmo em software proprietário.
+    AFLv3: Uma licença copyleft que é semelhante à GPLv3, mas se aplica a softwares que são executados em servidores.
 
 
+Direito autoral
+Pesquise, compile e adicione no seu glossário sobre software como obra autoral (Lei nº. 9609/98)
 
+  Direito autoral é a lei que diz que o autor de uma obra intelectual tem o direito de controlar como ela é usada.
 
+  O autor pode ganhar dinheiro com a obra, ou impedir que outras pessoas a usem sem autorização.
+
+  No Brasil, o direito autoral protege obras como livros, músicas, pinturas, esculturas, softwares, fotografias e outros.
+
+  É importante respeitar o direito autoral, pois ele protege o trabalho dos artistas e criadores.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+11/10/23
+
+_____sistemas Computacionais Eletronicos
+_____em nuvem
+_____Fornecer Garantias a Clientes eou usuarios.
+              |____receber o que pagou(seviço produto)
+              |____receber suporte ( validade garantia)
+              |____segurança.
+                   |____do produto ou serviço
+                   |____informaçaõ.
+                   |____privacidade.
+
+  navegar no sistema.
+  |_____propriedade intelectual.
+  |_____redirecionar a terceiros (LGPD)
 
 
 
