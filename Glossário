@@ -261,7 +261,40 @@ _____Fornecer Garantias a Clientes eou usuarios.
   |_____propriedade intelectual.
   |_____redirecionar a terceiros (LGPD)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+verificar erros possíveis que gerem problemas no direito.
+
+
+portal web (servidor aws)
+		postgree
+		bkp autom
+		balaceamento de carga entre 3 server
+		de 1k a 3k usuarios
+
+
+sistema portal:
+	-python
+	-Django
+	-bootstrap-templates
+	-bibliotecas de integracao
+		whats
+		youtube
+		vimeo
+
+	serviços
+		newsletter
+		forum de discussao
+			sem moderação
+		CRUD
+	
+	mensalidade.
+		p1: 39.90   -> 2 dispositivos simultaneos
+		p2: 49.90   -> 4 dispositivos simultaneos
+		p3: 59.90   -> 6 dispositivos simultaneos
+
+obs: 	nao pagamento da mensalidade em 10 dias tranca acesso!
+	nao pagamento da mensalidade em 30 dias gera cartorio de protesto ( nome sujo ).
 
 
 
