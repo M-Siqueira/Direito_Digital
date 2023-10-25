@@ -266,12 +266,26 @@ _____Fornecer Garantias a Clientes e ou usuarios.
 
 verificar erros possíveis que gerem problemas no direito.
 
+PROCURAR AMEAÇAS E FRAGILIDADES.
+
+FRAGILIDDAES: INTERNO
+AMEAÇAS: EXTERNO
+
 
 portal web (servidor aws)
-		postgree
-		bkp autom
-		balaceamento de carga entre 3 server
-		de 1k a 3k usuarios
+		postgree ->(Recuperação de Desastres Complexa: Configurar a recuperação de desastres e a alta disponibilidade no PostgreSQL pode ser complexo e requer conhecimento avançado)
+		bkp autom -> (Falta de Testes de Restauração: Não testar regularmente a restauração dos backups pode resultar em surpresas desagradáveis quando você realmente precisa recuperar os dados.
+
+Frequência de Backup Inadequada: Se a frequência dos backups não for suficiente, você pode perder dados importantes em caso de falha.
+
+Armazenamento Inadequado: Se os backups não forem armazenados de forma segura, estão sujeitos a perda, corrupção ou acesso não autorizado).
+
+		balaceamento de carga entre 3 server ->(  ameaça:Ataques Distribuídos de Negação de Serviço (DDoS): Ataques DDoS direcionados ao balanceador de carga podem sobrecarregá-lo,
+							 tornando os servidores inacessíveis.
+							falha: Falha do Balanceador de Carga: Se o hardware ou software do balanceador de carga falhar, ele não será capaz de distribuir o tráfego adequadamente,
+							 deixando os servidores vulneráveis a sobrecarga.
+							entre outros).
+		de 1k a 3k usuarios ->( ).
 
 
 sistema portal:
@@ -284,19 +298,39 @@ sistema portal:
 		vimeo
 
 	serviços
-		newsletter
-		forum de discussao
+		newsletter (Phishing e Ataques de Engenharia Social:
+				Spam e Filtros de E-mail:
+				Vazamento de Dados de Assinantes:
+				etc.)
+		forum de discussao ->(Fóruns de discussão online podem ser vulneráveis a várias fragilidades e desafios,
+					 tanto do ponto de vista da segurança quanto da moderação. Aqui estão algumas fragilidades comuns associadas aos fóruns de discussão: )
 			sem moderação
 		CRUD
 	
-	mensalidade.
+	mensalidade. 
 		p1: 39.90   -> 2 dispositivos simultaneos
 		p2: 49.90   -> 4 dispositivos simultaneos
 		p3: 59.90   -> 6 dispositivos simultaneos
+		->( custos continuos se tornam caras a longo prazo.
+			dependencia de terceiros.
+			problemas de segurança.
+			problemas de integração.
+			contratos de longo prazo.
+			perda de dados.
+			updates forçados.
+			limitação de desempenho
+			alteraçoes de preços inesperadas)
 
 obs: 	nao pagamento da mensalidade em 10 dias tranca acesso!
 	nao pagamento da mensalidade em 30 dias gera cartorio de protesto ( nome sujo ).
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+25/10/23
+SaaS 100%
+PaaS segurança.
+
+Certificação HTTPS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
